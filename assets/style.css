@@ -1,3 +1,11 @@
 h2 {
-  color:#800202;
+  color: #800202;
+}
+
+.blue-header {
+  color: blue;
+}
+
+.red-header {
+  color: red;
 }
